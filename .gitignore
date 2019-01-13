@@ -1,0 +1,6 @@
+/yarn.lock
+/dist
+/node_modules
+/dev-dot-homebridge/accessories/
+/dev-dot-homebridge/persist/
+/yarn-error.log

@@ -1,0 +1,12 @@
+{
+    "bridge": {
+        "name": "Homebridge Miele Dev",
+        "username": "AA:BB:CC:DD:EE:FF"
+    },
+    "platforms": [
+        {
+            "platform": "Miele",
+            "name": "Miele"
+        }
+    ]
+}
